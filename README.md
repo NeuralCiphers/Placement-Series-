@@ -13,14 +13,6 @@ This repository is a comprehensive collection of Data Structures and Algorithms 
 - **Structured Learning**: Organized in episodes for systematic learning
 - **Interview Focused**: Curated content specifically for placement preparation
 
-## Repository Structure
-
-```
-EP-1/
-├── arrayToLL.cpp - Array to Linked List conversion
-├── insertion_deletion_LL.cpp - Linked List operations
-```
-
 ## Languages Covered
 
 This repository includes implementations in:
